@@ -1,0 +1,39 @@
+.faq-main {
+    padding: 2rem;
+  }
+  
+  .faq-list {
+    margin-bottom: 2rem;
+  }
+  
+  .faq-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .faq-item h3 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .faq-item p {
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .raise-question {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .raise-question:hover {
+    background-color: #0056b3;
+  }
+  
